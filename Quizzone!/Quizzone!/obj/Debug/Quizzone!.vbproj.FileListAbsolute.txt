@@ -1,0 +1,133 @@
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\bin\Debug\Quizzone!.exe
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\bin\Debug\Quizzone!.exe.config
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.Form1.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.MainPage.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.Resources.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.Punteggio.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.storia10.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.storiaPage.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone!.vbproj.GenerateResource.Cache
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone!.exe
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone!.xml
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone!.pdb
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\bin\Debug\Quizzone!.pdb
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\bin\Debug\Quizzone!.xml
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone!.vbprojResolveAssemblyReference.cache
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.storia20.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.storia100.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.storia30.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.storia40.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.storia50.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.storia60.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.storia70.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.punteggio_bonus_sport.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.scienze10.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.scienze100.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.scienze20.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.scienze30.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.scienze40.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.scienze50.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.scienze60.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.scienze70.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.scienze80.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.scienze90.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.ScienzePage.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.spettacolo10.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.spettacolo100.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.spettacolo20.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.spettacolo30.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.spettacolo40.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.spettacolo50.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.spettacolo60.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.spettacolo70.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.spettacolo80.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.spettacolo90.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.spettacoloPage.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.sport10.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.sport100.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.sport20.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.sport30.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.sport40.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.sport50.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.sport60.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.sport70.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.sport80.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.sport90.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.sportPage.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.geo10.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.geo20.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.geo30.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.geo40.resources
+C:\Users\emaca\Desktop\emanuele\programmi\visual basic\Quizzone!\Quizzone!\obj\Debug\Quizzone_.geoPage.resources
+F:\Quizzone!\Quizzone!\bin\Debug\Quizzone!.exe.config
+F:\Quizzone!\Quizzone!\obj\Debug\Quizzone!.exe
+F:\Quizzone!\Quizzone!\obj\Debug\Quizzone!.xml
+F:\Quizzone!\Quizzone!\obj\Debug\Quizzone!.pdb
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\bin\Debug\Quizzone!.exe.config
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone!.exe
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone!.xml
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone!.pdb
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\bin\Debug\Quizzone!.exe
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\bin\Debug\Quizzone!.pdb
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\bin\Debug\Quizzone!.xml
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone!.vbprojResolveAssemblyReference.cache
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.bonus_bandiere.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.Form1.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.geo10.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.geo100.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.geo20.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.geo30.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.geo40.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.geo50.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.geo60.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.geo70.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.geo80.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.geo90.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.geoPage.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.MainPage.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.Resources.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.Punteggio.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.punteggio_bonus_sport.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.scienze10.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.scienze100.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.scienze20.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.scienze30.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.scienze40.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.scienze50.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.scienze60.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.scienze70.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.scienze80.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.scienze90.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.ScienzePage.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.spettacolo10.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.spettacolo100.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.spettacolo20.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.spettacolo30.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.spettacolo40.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.spettacolo50.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.spettacolo60.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.spettacolo70.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.spettacolo80.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.spettacolo90.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.spettacoloPage.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.sport10.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.sport100.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.sport20.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.sport30.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.sport40.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.sport50.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.sport60.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.sport70.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.sport80.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.sport90.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.sportPage.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.storia10.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.storia100.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.storia20.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.storia30.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.storia40.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.storia50.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.storia60.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.storia70.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.storiaPage.resources
+C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone!.vbproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+ITALIANO	FRANCESE +100p.	INGLESE +20p.
+
+Sette Nani	Sept Nains	Seven Dwarfs
+
+Dotto		Prof		Doc
+Brontolo	Grincheux	Grumpy
+Pisolo		Dormeur		Sleepy
+Mammolo		Timide		Bashful
+Gongolo		Joyeux		Happy
+Eolo		Atchoum		Sneezy
+Cucciolo	Simplet		Dopey

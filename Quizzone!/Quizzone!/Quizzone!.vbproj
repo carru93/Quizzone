@@ -1,0 +1,687 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3EA26412-AB39-4F84-9398-127476059A5A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Quizzone_.My.MyApplication</StartupObject>
+    <RootNamespace>Quizzone_</RootNamespace>
+    <AssemblyName>Quizzone!</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Quizzone!.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Quizzone!.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="artePage.Designer.vb">
+      <DependentUpon>artePage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="artePage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bonus_bandiere.Designer.vb">
+      <DependentUpon>bonus_bandiere.vb</DependentUpon>
+    </Compile>
+    <Compile Include="bonus_bandiere.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="geo10.Designer.vb">
+      <DependentUpon>geo10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="geo10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="geo100.Designer.vb">
+      <DependentUpon>geo100.vb</DependentUpon>
+    </Compile>
+    <Compile Include="geo100.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="geo20.Designer.vb">
+      <DependentUpon>geo20.vb</DependentUpon>
+    </Compile>
+    <Compile Include="geo20.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="geo30.Designer.vb">
+      <DependentUpon>geo30.vb</DependentUpon>
+    </Compile>
+    <Compile Include="geo30.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="geo40.Designer.vb">
+      <DependentUpon>geo40.vb</DependentUpon>
+    </Compile>
+    <Compile Include="geo40.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="geo50.Designer.vb">
+      <DependentUpon>geo50.vb</DependentUpon>
+    </Compile>
+    <Compile Include="geo50.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="geo60.Designer.vb">
+      <DependentUpon>geo60.vb</DependentUpon>
+    </Compile>
+    <Compile Include="geo60.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="geo70.Designer.vb">
+      <DependentUpon>geo70.vb</DependentUpon>
+    </Compile>
+    <Compile Include="geo70.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="geo80.Designer.vb">
+      <DependentUpon>geo80.vb</DependentUpon>
+    </Compile>
+    <Compile Include="geo80.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="geo90.Designer.vb">
+      <DependentUpon>geo90.vb</DependentUpon>
+    </Compile>
+    <Compile Include="geo90.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="geoPage.Designer.vb">
+      <DependentUpon>geoPage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="geoPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ingPage.Designer.vb">
+      <DependentUpon>ingPage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ingPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainPage.Designer.vb">
+      <DependentUpon>MainPage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Punteggio.Designer.vb">
+      <DependentUpon>Punteggio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Punteggio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="punteggio_bonus_sport.Designer.vb">
+      <DependentUpon>punteggio_bonus_sport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="punteggio_bonus_sport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="scienze10.Designer.vb">
+      <DependentUpon>scienze10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="scienze10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="scienze100.Designer.vb">
+      <DependentUpon>scienze100.vb</DependentUpon>
+    </Compile>
+    <Compile Include="scienze100.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="scienze20.Designer.vb">
+      <DependentUpon>scienze20.vb</DependentUpon>
+    </Compile>
+    <Compile Include="scienze20.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="scienze30.Designer.vb">
+      <DependentUpon>scienze30.vb</DependentUpon>
+    </Compile>
+    <Compile Include="scienze30.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="scienze40.Designer.vb">
+      <DependentUpon>scienze40.vb</DependentUpon>
+    </Compile>
+    <Compile Include="scienze40.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="scienze50.Designer.vb">
+      <DependentUpon>scienze50.vb</DependentUpon>
+    </Compile>
+    <Compile Include="scienze50.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="scienze60.Designer.vb">
+      <DependentUpon>scienze60.vb</DependentUpon>
+    </Compile>
+    <Compile Include="scienze60.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="scienze70.Designer.vb">
+      <DependentUpon>scienze70.vb</DependentUpon>
+    </Compile>
+    <Compile Include="scienze70.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="scienze80.Designer.vb">
+      <DependentUpon>scienze80.vb</DependentUpon>
+    </Compile>
+    <Compile Include="scienze80.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="scienze90.Designer.vb">
+      <DependentUpon>scienze90.vb</DependentUpon>
+    </Compile>
+    <Compile Include="scienze90.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScienzePage.Designer.vb">
+      <DependentUpon>ScienzePage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ScienzePage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="spettacolo10.Designer.vb">
+      <DependentUpon>spettacolo10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="spettacolo10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="spettacolo100.Designer.vb">
+      <DependentUpon>spettacolo100.vb</DependentUpon>
+    </Compile>
+    <Compile Include="spettacolo100.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="spettacolo20.Designer.vb">
+      <DependentUpon>spettacolo20.vb</DependentUpon>
+    </Compile>
+    <Compile Include="spettacolo20.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="spettacolo30.Designer.vb">
+      <DependentUpon>spettacolo30.vb</DependentUpon>
+    </Compile>
+    <Compile Include="spettacolo30.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="spettacolo40.Designer.vb">
+      <DependentUpon>spettacolo40.vb</DependentUpon>
+    </Compile>
+    <Compile Include="spettacolo40.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="spettacolo50.Designer.vb">
+      <DependentUpon>spettacolo50.vb</DependentUpon>
+    </Compile>
+    <Compile Include="spettacolo50.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="spettacolo60.Designer.vb">
+      <DependentUpon>spettacolo60.vb</DependentUpon>
+    </Compile>
+    <Compile Include="spettacolo60.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="spettacolo70.Designer.vb">
+      <DependentUpon>spettacolo70.vb</DependentUpon>
+    </Compile>
+    <Compile Include="spettacolo70.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="spettacolo80.Designer.vb">
+      <DependentUpon>spettacolo80.vb</DependentUpon>
+    </Compile>
+    <Compile Include="spettacolo80.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="spettacolo90.Designer.vb">
+      <DependentUpon>spettacolo90.vb</DependentUpon>
+    </Compile>
+    <Compile Include="spettacolo90.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="spettacoloPage.Designer.vb">
+      <DependentUpon>spettacoloPage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="spettacoloPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sport10.Designer.vb">
+      <DependentUpon>sport10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sport10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sport100.Designer.vb">
+      <DependentUpon>sport100.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sport100.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sport20.Designer.vb">
+      <DependentUpon>sport20.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sport20.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sport30.Designer.vb">
+      <DependentUpon>sport30.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sport30.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sport40.Designer.vb">
+      <DependentUpon>sport40.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sport40.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sport50.Designer.vb">
+      <DependentUpon>sport50.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sport50.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sport60.Designer.vb">
+      <DependentUpon>sport60.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sport60.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sport70.Designer.vb">
+      <DependentUpon>sport70.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sport70.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sport80.Designer.vb">
+      <DependentUpon>sport80.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sport80.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sport90.Designer.vb">
+      <DependentUpon>sport90.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sport90.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sportPage.Designer.vb">
+      <DependentUpon>sportPage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sportPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="storia10.Designer.vb">
+      <DependentUpon>storia10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="storia10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="storia100.Designer.vb">
+      <DependentUpon>storia100.vb</DependentUpon>
+    </Compile>
+    <Compile Include="storia100.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="storia20.Designer.vb">
+      <DependentUpon>storia20.vb</DependentUpon>
+    </Compile>
+    <Compile Include="storia20.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="storia30.Designer.vb">
+      <DependentUpon>storia30.vb</DependentUpon>
+    </Compile>
+    <Compile Include="storia30.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="storia40.Designer.vb">
+      <DependentUpon>storia40.vb</DependentUpon>
+    </Compile>
+    <Compile Include="storia40.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="storia50.Designer.vb">
+      <DependentUpon>storia50.vb</DependentUpon>
+    </Compile>
+    <Compile Include="storia50.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="storia60.Designer.vb">
+      <DependentUpon>storia60.vb</DependentUpon>
+    </Compile>
+    <Compile Include="storia60.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="storia70.Designer.vb">
+      <DependentUpon>storia70.vb</DependentUpon>
+    </Compile>
+    <Compile Include="storia70.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="storiaPage.Designer.vb">
+      <DependentUpon>storiaPage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="storiaPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="bonus_bandiere.resx">
+      <DependentUpon>bonus_bandiere.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="geo10.resx">
+      <DependentUpon>geo10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="geo100.resx">
+      <DependentUpon>geo100.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="geo20.resx">
+      <DependentUpon>geo20.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="geo30.resx">
+      <DependentUpon>geo30.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="geo40.resx">
+      <DependentUpon>geo40.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="geo50.resx">
+      <DependentUpon>geo50.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="geo60.resx">
+      <DependentUpon>geo60.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="geo70.resx">
+      <DependentUpon>geo70.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="geo80.resx">
+      <DependentUpon>geo80.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="geo90.resx">
+      <DependentUpon>geo90.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="geoPage.resx">
+      <DependentUpon>geoPage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainPage.resx">
+      <DependentUpon>MainPage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Punteggio.resx">
+      <DependentUpon>Punteggio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="punteggio_bonus_sport.resx">
+      <DependentUpon>punteggio_bonus_sport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="scienze10.resx">
+      <DependentUpon>scienze10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="scienze100.resx">
+      <DependentUpon>scienze100.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="scienze20.resx">
+      <DependentUpon>scienze20.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="scienze30.resx">
+      <DependentUpon>scienze30.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="scienze40.resx">
+      <DependentUpon>scienze40.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="scienze50.resx">
+      <DependentUpon>scienze50.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="scienze60.resx">
+      <DependentUpon>scienze60.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="scienze70.resx">
+      <DependentUpon>scienze70.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="scienze80.resx">
+      <DependentUpon>scienze80.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="scienze90.resx">
+      <DependentUpon>scienze90.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScienzePage.resx">
+      <DependentUpon>ScienzePage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="spettacolo10.resx">
+      <DependentUpon>spettacolo10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="spettacolo100.resx">
+      <DependentUpon>spettacolo100.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="spettacolo20.resx">
+      <DependentUpon>spettacolo20.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="spettacolo30.resx">
+      <DependentUpon>spettacolo30.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="spettacolo40.resx">
+      <DependentUpon>spettacolo40.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="spettacolo50.resx">
+      <DependentUpon>spettacolo50.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="spettacolo60.resx">
+      <DependentUpon>spettacolo60.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="spettacolo70.resx">
+      <DependentUpon>spettacolo70.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="spettacolo80.resx">
+      <DependentUpon>spettacolo80.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="spettacolo90.resx">
+      <DependentUpon>spettacolo90.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="spettacoloPage.resx">
+      <DependentUpon>spettacoloPage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sport10.resx">
+      <DependentUpon>sport10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sport100.resx">
+      <DependentUpon>sport100.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sport20.resx">
+      <DependentUpon>sport20.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sport30.resx">
+      <DependentUpon>sport30.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sport40.resx">
+      <DependentUpon>sport40.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sport50.resx">
+      <DependentUpon>sport50.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sport60.resx">
+      <DependentUpon>sport60.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sport70.resx">
+      <DependentUpon>sport70.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sport80.resx">
+      <DependentUpon>sport80.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sport90.resx">
+      <DependentUpon>sport90.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sportPage.resx">
+      <DependentUpon>sportPage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="storia10.resx">
+      <DependentUpon>storia10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="storia100.resx">
+      <DependentUpon>storia100.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="storia20.resx">
+      <DependentUpon>storia20.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="storia30.resx">
+      <DependentUpon>storia30.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="storia40.resx">
+      <DependentUpon>storia40.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="storia50.resx">
+      <DependentUpon>storia50.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="storia60.resx">
+      <DependentUpon>storia60.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="storia70.resx">
+      <DependentUpon>storia70.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="storiaPage.resx">
+      <DependentUpon>storiaPage.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\il_piccolo_principe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scienze.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spettacolo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SPORT.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\geografia.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\storia.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inglese.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arte.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cartoni animati.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\darwin.jpe" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Flag_of_Russia.svg.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

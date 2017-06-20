@@ -1,0 +1,33 @@
+sport 10: Di che nazionalità è Cristiano Ronaldo (spagnolo, PORTOGHESE, brasiliano, argentino)
+sport 20: In che sport gioca il playmaker (Cricket, Golf, BASKET, Baseball)
+sport 30: Quanti giocatori ci sono in una squadra di calcetto? (5, 11, 7, 9)
+sport 40: In che sport è specialista Federica Pellegrini? (NUOTO, scherma, judo, danza)
+sport 50: Come si chiama la gara di atletica che si compone di 10 sports? (DECATHLON)
+sport 60: Quanti albitri ci sono in una partita di serie A? (6)
+sport 70: Quale di questi stili non appartiene al nuoto? (delfino, PESCE, farfalla, rana)
+sport 80: BONUS: Soprannomi dei giocatori
+sport 90: Quale di questi numeri non può apparire nel retro di una maglietta di un giocatore di basket (100, 00, 1, 20)
+sport 100: Come si chiama l'attacco della banda da seconda linea nella pallavolo (PIPE, ace, fast, burger)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+scienze 10: Da cosa deriva la carta (LEGNO, sughero, mais, foglie) 
+scienze 20: quale nome prende il magma fuoriuscito dal cratere 
+scienze 30: peso lordo: 12 kg; peso netto: 9,7 kg; tara? (2,3)
+scienze 40: BONUS: o dore o naso
+scienze 50: come si chiama l'osso di un famoso autore greco? (OMERO, erodoto, nerone, pitagora)
+scienze 60: Cosa c'è per primo partendo dalla bocca: laringe o faringe (laringe, FARINGE)
+scienze 70: chi è? (DARWIN, Einestein, Fermi, Zuzzolo) *metti foto darwin* 
+scienze 80: Come si chiama la membrana che fornisce nutrimento e ossigeno al feto durante la gravidaza (PLACNTA, cordone ombelicale, blastula, embrione)
+scienze 90: Qual'è il quarto stato della materia (PLASMA, solido, celluloso, denso)
+scienze 100: Quali tra queste forze non è vettoriale (PRESSIONE, elastica, attrito, gravità) 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+spettacolo 10: Come si chiama la sorella di Bart più grande (Lisa)
+spettacolo 20: come si chiama il cane della famiglia Simpson (AIUTANTE DI BABBO NATALE)
+spettacolo 30: BONUS: nomi dei sette nani
+spettacolo 40: Come si chiama il dinosauro cattivo dell' "L'era glaciale 3" (RUDY)
+spettacolo 50: Cosa mangia pippo per diventare superpippo (NOCCIOLINE)
+spettacolo 60: Quali cartoni ci sono in SpaceJam (LONEY TOONS, topolino&co, gli Incredibili, Simpson)
+spettacolo 70: Come si chiama il figlio dei fantagenitori (PUFF)
+spettacolo 80: In che supereroe si trasforma paperino?
+spettacolo 90: Cosa mangia Eta-beta (PNAFTALINA)
+spettacolo 100: come si chiamano le kardashian (kim-klhoe-kourtney)  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
