@@ -72,6 +72,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="arte10.Designer.vb">
+      <DependentUpon>arte10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="arte10.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="artePage.Designer.vb">
       <DependentUpon>artePage.vb</DependentUpon>
     </Compile>
@@ -450,6 +456,12 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="arte10.resx">
+      <DependentUpon>arte10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="artePage.resx">
+      <DependentUpon>artePage.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="bonus_bandiere.resx">
       <DependentUpon>bonus_bandiere.vb</DependentUpon>
     </EmbeddedResource>

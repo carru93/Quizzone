@@ -196,7 +196,7 @@ Partial Class ScienzePage
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
-        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
         Me.MaximizeBox = False
         Me.MinimizeBox = False
         Me.Name = "ScienzePage"
