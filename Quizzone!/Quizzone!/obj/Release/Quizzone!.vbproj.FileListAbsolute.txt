@@ -192,3 +192,12 @@ C:\Users\emaca\Desktop\Quizzone\Quizzone!\Quizzone!\obj\Release\Quizzone_.storia
 C:\Users\emaca\Desktop\Quizzone\Quizzone!\Quizzone!\obj\Release\Quizzone!.vbproj.GenerateResource.Cache
 C:\Users\emaca\Desktop\Quizzone\Quizzone!\Quizzone!\obj\Release\Quizzone_.arte10.resources
 C:\Users\emaca\Desktop\Quizzone\Quizzone!\Quizzone!\obj\Release\Quizzone_.artePage.resources
+C:\Users\emaca\Desktop\Quizzone\Quizzone!\Quizzone!\obj\Release\Quizzone_.arte100.resources
+C:\Users\emaca\Desktop\Quizzone\Quizzone!\Quizzone!\obj\Release\Quizzone_.arte20.resources
+C:\Users\emaca\Desktop\Quizzone\Quizzone!\Quizzone!\obj\Release\Quizzone_.arte30.resources
+C:\Users\emaca\Desktop\Quizzone\Quizzone!\Quizzone!\obj\Release\Quizzone_.arte40.resources
+C:\Users\emaca\Desktop\Quizzone\Quizzone!\Quizzone!\obj\Release\Quizzone_.arte50.resources
+C:\Users\emaca\Desktop\Quizzone\Quizzone!\Quizzone!\obj\Release\Quizzone_.arte60.resources
+C:\Users\emaca\Desktop\Quizzone\Quizzone!\Quizzone!\obj\Release\Quizzone_.arte70.resources
+C:\Users\emaca\Desktop\Quizzone\Quizzone!\Quizzone!\obj\Release\Quizzone_.arte80.resources
+C:\Users\emaca\Desktop\Quizzone\Quizzone!\Quizzone!\obj\Release\Quizzone_.arte90.resources

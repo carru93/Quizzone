@@ -78,6 +78,60 @@
     <Compile Include="arte10.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="arte100.Designer.vb">
+      <DependentUpon>arte100.vb</DependentUpon>
+    </Compile>
+    <Compile Include="arte100.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="arte20.Designer.vb">
+      <DependentUpon>arte20.vb</DependentUpon>
+    </Compile>
+    <Compile Include="arte20.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="arte30.Designer.vb">
+      <DependentUpon>arte30.vb</DependentUpon>
+    </Compile>
+    <Compile Include="arte30.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="arte40.Designer.vb">
+      <DependentUpon>arte40.vb</DependentUpon>
+    </Compile>
+    <Compile Include="arte40.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="arte50.Designer.vb">
+      <DependentUpon>arte50.vb</DependentUpon>
+    </Compile>
+    <Compile Include="arte50.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="arte60.Designer.vb">
+      <DependentUpon>arte60.vb</DependentUpon>
+    </Compile>
+    <Compile Include="arte60.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="arte70.Designer.vb">
+      <DependentUpon>arte70.vb</DependentUpon>
+    </Compile>
+    <Compile Include="arte70.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="arte80.Designer.vb">
+      <DependentUpon>arte80.vb</DependentUpon>
+    </Compile>
+    <Compile Include="arte80.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="arte90.Designer.vb">
+      <DependentUpon>arte90.vb</DependentUpon>
+    </Compile>
+    <Compile Include="arte90.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="artePage.Designer.vb">
       <DependentUpon>artePage.vb</DependentUpon>
     </Compile>
@@ -161,12 +215,6 @@
       <DependentUpon>geoPage.vb</DependentUpon>
     </Compile>
     <Compile Include="geoPage.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="ingPage.Designer.vb">
-      <DependentUpon>ingPage.vb</DependentUpon>
-    </Compile>
-    <Compile Include="ingPage.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="MainPage.Designer.vb">
@@ -458,6 +506,33 @@
   <ItemGroup>
     <EmbeddedResource Include="arte10.resx">
       <DependentUpon>arte10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="arte100.resx">
+      <DependentUpon>arte100.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="arte20.resx">
+      <DependentUpon>arte20.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="arte30.resx">
+      <DependentUpon>arte30.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="arte40.resx">
+      <DependentUpon>arte40.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="arte50.resx">
+      <DependentUpon>arte50.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="arte60.resx">
+      <DependentUpon>arte60.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="arte70.resx">
+      <DependentUpon>arte70.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="arte80.resx">
+      <DependentUpon>arte80.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="arte90.resx">
+      <DependentUpon>arte90.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="artePage.resx">
       <DependentUpon>artePage.vb</DependentUpon>

@@ -131,3 +131,7 @@ C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.storia60.
 C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.storia70.resources
 C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone_.storiaPage.resources
 C:\Users\Emanuele\Desktop\kamp\Quizzone!\Quizzone!\obj\Debug\Quizzone!.vbproj.GenerateResource.Cache
+C:\Users\emaca\Desktop\Quizzone\Quizzone!\Quizzone!\bin\Debug\Quizzone!.exe.config
+C:\Users\emaca\Desktop\Quizzone\Quizzone!\Quizzone!\obj\Debug\Quizzone!.exe
+C:\Users\emaca\Desktop\Quizzone\Quizzone!\Quizzone!\obj\Debug\Quizzone!.xml
+C:\Users\emaca\Desktop\Quizzone\Quizzone!\Quizzone!\obj\Debug\Quizzone!.pdb

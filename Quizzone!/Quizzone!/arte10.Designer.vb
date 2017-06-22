@@ -120,7 +120,11 @@ Partial Class arte10
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
+        Me.MaximizeBox = False
+        Me.MinimizeBox = False
         Me.Name = "arte10"
+        Me.ShowIcon = False
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "arte10"
         Me.ResumeLayout(False)
         Me.PerformLayout()

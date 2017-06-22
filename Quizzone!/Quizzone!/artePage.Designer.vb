@@ -198,6 +198,7 @@ Partial Class artePage
         Me.Controls.Add(Me.Button1)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
         Me.Name = "artePage"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "artePage"
         Me.ResumeLayout(False)
         Me.PerformLayout()

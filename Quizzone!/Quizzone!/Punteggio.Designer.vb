@@ -148,7 +148,7 @@ Partial Class Punteggio
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(337, 29)
         Me.TextBox1.TabIndex = 9
-        Me.TextBox1.Text = "700"
+        Me.TextBox1.Text = "800"
         '
         'Button1
         '

@@ -25,7 +25,6 @@ Partial Class MainPage
         Me.Label1 = New System.Windows.Forms.Label()
         Me.Button8 = New System.Windows.Forms.Button()
         Me.Button7 = New System.Windows.Forms.Button()
-        Me.Button6 = New System.Windows.Forms.Button()
         Me.Button5 = New System.Windows.Forms.Button()
         Me.Button4 = New System.Windows.Forms.Button()
         Me.Button2 = New System.Windows.Forms.Button()
@@ -47,7 +46,7 @@ Partial Class MainPage
         Me.Button8.BackgroundImage = Global.Quizzone_.My.Resources.Resources.cartoni_animati
         Me.Button8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.Button8.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button8.Location = New System.Drawing.Point(224, 372)
+        Me.Button8.Location = New System.Drawing.Point(439, 223)
         Me.Button8.Name = "Button8"
         Me.Button8.Size = New System.Drawing.Size(171, 130)
         Me.Button8.TabIndex = 10
@@ -63,17 +62,6 @@ Partial Class MainPage
         Me.Button7.Size = New System.Drawing.Size(171, 130)
         Me.Button7.TabIndex = 9
         Me.Button7.UseVisualStyleBackColor = True
-        '
-        'Button6
-        '
-        Me.Button6.BackgroundImage = Global.Quizzone_.My.Resources.Resources.inglese
-        Me.Button6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.Button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button6.Location = New System.Drawing.Point(439, 223)
-        Me.Button6.Name = "Button6"
-        Me.Button6.Size = New System.Drawing.Size(171, 130)
-        Me.Button6.TabIndex = 8
-        Me.Button6.UseVisualStyleBackColor = True
         '
         'Button5
         '
@@ -124,10 +112,9 @@ Partial Class MainPage
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.Aqua
-        Me.ClientSize = New System.Drawing.Size(622, 532)
+        Me.ClientSize = New System.Drawing.Size(622, 366)
         Me.Controls.Add(Me.Button8)
         Me.Controls.Add(Me.Button7)
-        Me.Controls.Add(Me.Button6)
         Me.Controls.Add(Me.Button5)
         Me.Controls.Add(Me.Button4)
         Me.Controls.Add(Me.Button2)
@@ -149,7 +136,6 @@ Partial Class MainPage
     Friend WithEvents Button2 As Button
     Friend WithEvents Button4 As Button
     Friend WithEvents Button5 As Button
-    Friend WithEvents Button6 As Button
     Friend WithEvents Button7 As Button
     Friend WithEvents Button8 As Button
 End Class
